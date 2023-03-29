@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+    </style>
+    <title>Aula</title>
+</head>
+<body>
+    
+
+    <table style="width: 100%;"  border="1">
+        <colgroup>
+            <col span="0" style="background-color: black ;">
+        </colgroup>
+        <th colspan="2">
+            <p style="color: rgb(255, 255, 255);">Sejam bem-vindos</p>
+            <h3 style="color: rgb(255, 255, 255);">Curso de HTML5-Grátis e Completo</h3>
+        </th>
+        
+        <tr style="background-color: rgb(255, 255, 255);">
+
+            <td style="width: 20%;">
+                HTML
+                <ul>
+                    <li><a href="">Introdução</a> </li>
+                    <li><a href="">Tags</a></li>
+                    <li><a href="">Atributos</a></li>
+                    <li><a href="">Imagem</a></li>
+                    <li><a href="">Tabela</a></li>
+                </ul>
+
+                CSS
+                <ul>
+                    <li><a href="">Introdução</a></li>
+                    <li><a href="">Sintaxe</a></li>
+                    <li><a href="">Fonts</a></li>
+                </ul>
+
+                JAVASCRIPT
+                <ul>
+                    <li><a href="">Introdução</a></li>
+                    <li><a href="">Sintaxe</a></li>
+                    <li><a href="">Funções</a></li>
+                </ul>
+            </td>
+
+            <td>
+                <p><img src="https://apexensino.com.br/wp-content/uploads/2017/11/html-css-javascript.jpg" width="40%" height="20%"></img></p>
+                <p>Neste Curso Falaremos sobre suas origens, objetivo, importância, boas
+                prática e ferramentas necessárias pare se trabalhar com essas maneiras
+                linguagem, assim como sua estrutura básica, apresentando seus principais
+                elementos.
+                </p>
+                <h3>Entenda as Linguagens<h3>
+                
+                    <iframe width="25%" height="50%" src="https://www.youtube.com/embed/7c6mi6-mj4I" 
+                    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
+                    clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    allowfullscreen></iframe> 
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
